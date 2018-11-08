@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Runner
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=old
+comment3.target=java.lang.String[][]\ copy(java.lang.String[][])
+comment4.params=i\ j
+comment4.target=boolean\ isValid(int,\ int)
+comment5.params=x\ i\ j
+comment5.target=int\ countNeighbors(java.lang.String[][],\ int,\ int)
+comment6.params=x\ i\ j
+comment6.target=int\ countNeighborsold(java.lang.String[][],\ int,\ int)
+comment7.params=
+comment7.target=void\ enterPoint()
+numComments=8
