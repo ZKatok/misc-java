@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Conway's Game of Life
+DATE: 7 November 2018
+USER INSTRUCTIONS: Follow the instructions that print out in the terminal.
+There are three options at the start: randomly generate a board setup,
+manually enter points, or start with the classic glider formation.
